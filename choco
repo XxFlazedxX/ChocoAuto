@@ -41,7 +41,7 @@ title.Font = Enum.Font.GothamBold
 title.TextSize = 14
 title.TextXAlignment = Enum.TextXAlignment.Left
 title.TextColor3 = Color3.fromRGB(255,255,255)
-title.Text = "FLZ Auto Grapple"
+title.Text = "By Flazed For Choco!!"
 title.Parent = dragBar
 
 -- === Controls ===
